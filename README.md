@@ -1,5 +1,6 @@
 ### Olá mundo!  👋
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -7,7 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstavomota&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstavomota&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 
 <!--
 **gstavomota/gstavomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
