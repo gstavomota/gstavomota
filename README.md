@@ -1,6 +1,6 @@
 ### Olá mundo!  👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
