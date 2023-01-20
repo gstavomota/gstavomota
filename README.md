@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gstavomota&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<!-- ![Snake animation](https://github.com/gstavomota/gstavomota/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/gstavomota/gstavomota/blob/output/github-contribution-grid-snake.svg)
 <!--
 **gstavomota/gstavomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
