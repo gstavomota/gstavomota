@@ -1,14 +1,15 @@
 ### Olá mundo!  👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstavomota&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gstavomota&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gstavomota&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gstavomota&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+<!-- ![Snake animation](https://github.com/gstavomota/gstavomota/blob/output/github-contribution-grid-snake.svg) -->
 <!--
 **gstavomota/gstavomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
