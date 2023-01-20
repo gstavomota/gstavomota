@@ -5,11 +5,11 @@
 - 📫 Como me encontrar:
 
 <div> 
-  <a href = "mailto:gstavomota1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gstavomota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
 <br>
+<hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
@@ -31,6 +31,7 @@
 </div>
 
 <br>
+<hr>
 
 ![Snake animation](https://github.com/gstavomota/gstavomota/blob/output/github-contribution-grid-snake.svg)
 
