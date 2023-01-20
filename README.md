@@ -1,12 +1,13 @@
 ### Olá mundo!  👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gstavomota&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gstavomota&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gstavomota&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
+#gh-dark-mode-only
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gstavomota&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
 
 </div>
