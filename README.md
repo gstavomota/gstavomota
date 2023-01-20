@@ -1,4 +1,4 @@
-### Olá mundo!  👋
+### Olá mundo!  👋:earth_americas:
 
 - 🌱 Atualmente estou aprendendo Nodejs
 - 🔭 Atualmente estou trabalhando com HelpDesk
